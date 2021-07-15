@@ -13,7 +13,7 @@ Welcome to the documentation for the website of Koenighaus Heizsysteme.
 
 **Test enviroment URL:** [https://koenighaus-webshop-donkoko.vercel.app//](https://koenighaus-webshop-donkoko.vercel.app//)
 
-**Backend URL:** [api.koenighaus-heizsysteme.de/wp-admin//](api.koenighaus-heizsysteme.de/wp-admin/)
+**Backend URL:** [https://api.koenighaus-heizsysteme.de/wp-admin/](https://api.koenighaus-heizsysteme.de/wp-admin/)
 
 *Use the backend url to access the CMS where you can edit/change content.
 
