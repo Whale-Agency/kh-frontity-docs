@@ -6,10 +6,10 @@ module.exports = {
   title: 'KH Frontity Documentation',
   tagline: 'Dinosaurs are cool',
   url: 'https://whale-agency.github.io',
-  baseUrl: '/kh-frontity-docs/',
+  baseUrl: '/kh-website-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/whale.svg',
+  // favicon: 'img/whale.svg',
   organizationName: 'Whale-Agency', // Usually your GitHub org/user name.
   projectName: 'kh-frontity-docs', // Usually your repo name.
   themeConfig: {
@@ -20,12 +20,6 @@ module.exports = {
         src: 'img/whale.svg',
       },
       items: [
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Tutorial',
-        },
         {
           href: 'https://github.com/Whale-Agency/kh-frontity-docs',
           label: 'GitHub',
