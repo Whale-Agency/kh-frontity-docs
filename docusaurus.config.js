@@ -6,7 +6,7 @@ module.exports = {
   title: 'KH Frontity Documentation',
   tagline: 'Dinosaurs are cool',
   url: 'https://whale-agency.github.io',
-  baseUrl: '/kh-website-docs/',
+  baseUrl: '/kh-frontity-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   // favicon: 'img/whale.svg',
@@ -42,6 +42,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/',
           // Please change this to your repo.
           editUrl:
             'https://github.com/Whale-Agency/kh-frontity-docs/edit/master/website/',
