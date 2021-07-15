@@ -2,9 +2,9 @@ name: deploy
 
 on:
   pull_request:
-    branches: [master]
+    branches: [live]
   push:
-    branches: [master]
+    branches: [live]
 
 jobs:
   checks:
