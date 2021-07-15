@@ -5,6 +5,7 @@ sidebar_position: 1
 # Intro
 
 Welcome to the documentation for the website of Koenighaus Heizsysteme.
+![KH team](https://api.koenighaus-heizsysteme.de/wp-content/uploads/2020/07/wearekoenighaus_o.jpg)
 
 
 ## Access
