@@ -2,34 +2,28 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the documentation for the website of Koenighaus Heizsysteme.
 
-## Getting Started
 
-Get started by **creating a new site**.
+## Access
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
+**Live URL:** [https://neu.koenighaus-heizsysteme.de/](https://neu.koenighaus-heizsysteme.de/)
 
-## Generate a new site
+**Test enviroment URL:** [https://koenighaus-webshop-donkoko.vercel.app//](https://koenighaus-webshop-donkoko.vercel.app//)
 
-Generate a new Docusaurus site using the **classic template**:
+**Backend URL:** [api.koenighaus-heizsysteme.de/wp-admin//](api.koenighaus-heizsysteme.de/wp-admin/)
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
+*Use the backend url to access the CMS where you can edit/change content.
 
-## Start your site
 
-Run the development server:
+## Technical information
 
-```shell
-cd my-website
+The CMS powering this website is [Wordpress](https://wordpress.org/).
 
-npx docusaurus start
-```
+This website is build using [Frontity](https://frontity.org/), a framework for building themes for Wordpress using [ReactJS](https://reactjs.org/).
 
-Your site starts at `http://localhost:3000`.
+Frontity theme repository - [https://github.com/Whale-Agency/kh-frontity-theme](https://github.com/Whale-Agency/kh-frontity-theme)
 
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+Wordpress repository - [https://github.com/Whale-Agency/kh-api](https://github.com/Whale-Agency/kh-api)
