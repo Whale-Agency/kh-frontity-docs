@@ -10,8 +10,8 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/whale.svg',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Whale-Agency', // Usually your GitHub org/user name.
+  projectName: 'kh-frontity-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'KH Frontity Documentation',
@@ -27,7 +27,7 @@ module.exports = {
           label: 'Tutorial',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Whale-Agency/kh-frontity-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -50,13 +50,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/Whale-Agency/kh-frontity-docs/edit/master/website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
